@@ -1,0 +1,4 @@
+# Ignore certain files
+.env
+.env.local
+package-lock.json
